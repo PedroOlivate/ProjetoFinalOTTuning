@@ -144,7 +144,7 @@ let pecaJson4 = [
     {
       id: 2,
       name: 'Alavanca Freio De Mão Hidráulico',
-      img: 'img/freiodemao2.jpg',
+      img: 'img/freiodemao1.jpg',
       price: [960.00, 620.00, 310.00],
       sizes: [
         '.',
