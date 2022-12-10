@@ -26,7 +26,7 @@ let pecaJson = [
       {
         id: 3,
         name: 'HIGH-HELIX BILLET ROTORS',
-        img: 'img/blower3.PNG',
+        img: 'img/blower2.PNG',
         price: [780.00, 520.00, 260.00],
         sizes: [
           '.',
